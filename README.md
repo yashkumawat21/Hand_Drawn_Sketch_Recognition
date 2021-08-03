@@ -5,8 +5,7 @@ Sketch Classification
 Initial Dataset had around 125 classes. 
 aeroplane, bird, box etc....  
 500 images per class. 
-Problem Statement we picked 10  
-classes out of those 125. 
+Problem Statement we picked 10  classes out of those 125. 
 because our aim was to study the effects of various machine learning techinques like  cross validation, data preprocessing(feature extraction) and Dimensionality reduction. 
 [0,0,0,0,1,0,0,0,0] - Y (10)  
 One Hot encoding 
